@@ -1,0 +1,2 @@
+# suobot
+otaku juego bot
