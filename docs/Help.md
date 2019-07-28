@@ -1,5 +1,9 @@
 # suo!bot help
 Contents:
+> Links
+ - [Commands](https://github.com/BlissSc/suobot/blob/master/docs/Help.md#commands)
+  - [Invite](https://github.com/BlissSc/suobot/blob/master/docs/Help.md#invite)
+   - [Support](https://github.com/BlissSc/suobot/blob/master/docs/Help.md#support)
 
 ## Commands
 ```js
